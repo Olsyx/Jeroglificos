@@ -1,0 +1,46 @@
+table {
+    border-collapse: collapse;
+}
+
+th {
+    border: 1px solid black;
+}
+
+td {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+td img {
+    max-width: 100px;
+}
+
+td.image {
+    text-align: center;
+    width: 100px;
+}
+
+td.word {
+    text-align: center;
+    width: 50px;
+    max-width: 100px;
+    height: 50px;
+    font-size: 0.8em;
+}
+
+td.type {
+    text-align: center;
+    width: 100px;
+    height: 50px;
+}
+
+td.description {
+    text-align: left;
+    font-size: 0.8em;
+    width: 300px;
+    height: 50px;
+}
+
+.is-hidden {
+    display: none !important;
+}

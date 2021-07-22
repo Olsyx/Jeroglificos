@@ -1,0 +1,68 @@
+.is-hidden {
+    display: none !important;
+}
+
+.wrapper {
+    padding-top: 15px;
+    max-width: 1000px;
+}
+
+.search-bar {
+    width: 1000px;
+    max-width: 100%;
+    position: fixed;
+    top: 0;
+}
+
+.word-type {
+}
+
+.word-list {
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.word-item {
+    display: flex;
+    flex-basis: 50%;
+    flex-direction: row;
+    width: 350px;
+}
+
+.image  {
+    min-width: 150px;
+    max-width: 150px;
+    min-height: 45px;
+    margin-bottom: 0;
+    border: 1px solid black;
+    padding-top: 5px;
+}
+
+.image img {
+    max-width: 90%;
+    max-height: 90%;
+    display:block;
+    margin:auto;
+}
+
+.transliteration {
+    min-height: 50px;
+    margin-bottom: 0;
+    display: none;
+}
+
+.word {
+    min-width: 75px;
+    max-width: 75px;
+    min-height: 50px;
+    margin-bottom: 0;
+    padding: 10px 0 0 10px;
+    border: 1px solid black;
+}
+
+.description {
+    flex-grow: 1;
+    min-height: 50px;
+    padding: 10px 0 0 10px;
+    border: 1px solid black;
+}
