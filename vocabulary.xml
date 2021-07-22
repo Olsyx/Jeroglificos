@@ -1,0 +1,1504 @@
+<?xml version="1.0" encoding="UTF-32"?>
+<words>
+    <item>
+        <image>bw.png</image>
+        <word>bw</word>
+        <type>Sustantivos</type>
+        <meaning>Lugar.</meaning>
+    </item>
+    <item>
+        <image>rn.png</image>
+        <word>rn</word>
+        <type>Sustantivos</type>
+        <meaning>Nombre.</meaning>
+    </item>
+    <item>
+        <image>sxr.png</image>
+        <word>sḫr</word>
+        <type>Sustantivos</type>
+        <meaning>Plan, decisión, consejo, determinación.</meaning>
+    </item>
+    <item>
+        <image>r'.png</image>
+        <word>rꜥ</word>
+        <type>Sustantivos</type>
+        <meaning>Sol.</meaning>
+    </item>
+    <item>
+        <image>i'kh.png</image>
+        <word>iꜥḥ</word>
+        <type>Sustantivos</type>
+        <meaning>Luna.</meaning>
+    </item>
+    <item>
+        <image>pt.png</image>
+        <word>pt</word>
+        <type>Sustantivos</type>
+        <meaning>Cielo.</meaning>
+    </item>
+    <item>
+        <image>grkh.png</image>
+        <word>grḥ</word>
+        <type>Sustantivos</type>
+        <meaning>Noche.</meaning>
+    </item>
+    <item>
+        <image>rshwt.png</image>
+        <word>ršwt</word>
+        <type>Sustantivos</type>
+        <meaning>Alegría.</meaning>
+    </item>
+    <item>
+        <image>dpt.png</image>
+        <word>dpt</word>
+        <type>Sustantivos</type>
+        <meaning>Barca.</meaning>
+    </item>
+    <item>
+        <image>wi3.png</image>
+        <word>wi3</word>
+        <type>Sustantivos</type>
+        <meaning>Barca (de un dios).</meaning>
+    </item>
+    <item>
+        <image>Ptkh.png</image>
+        <word>Ptḥ</word>
+        <type>Nombres propios</type>
+        <meaning>Ptah.</meaning>
+    </item>
+    <item>
+        <image>r'_2.png</image>
+        <word>rꜥ</word>
+        <type>Nombres propios</type>
+        <meaning>Re.</meaning>
+    </item>
+    <item>
+        <image>ndjs.png</image>
+        <word>nḏs</word>
+        <type>Sustantivos</type>
+        <meaning>Hombre (común).</meaning>
+    </item>
+    <item>
+        <image>nbt.png</image>
+        <word>nbt</word>
+        <type>Sustantivos</type>
+        <meaning>Señora.</meaning>
+    </item>
+    <item>
+        <image>sn.png</image>
+        <word>sn</word>
+        <type>Sustantivos</type>
+        <meaning>Hermano.</meaning>
+    </item>
+    <item>
+        <image>snt.png</image>
+        <word>snt</word>
+        <type>Sustantivos</type>
+        <meaning>Hermana.</meaning>
+    </item>
+    <item>
+        <image>b3k.png</image>
+        <word>b3k</word>
+        <type>Sustantivos</type>
+        <meaning>Servidor.</meaning>
+    </item>
+    <item>
+        <image>b3kt.png</image>
+        <word>b3kt</word>
+        <type>Sustantivos</type>
+        <meaning>Servidora.</meaning>
+    </item>
+    <item>
+        <image>s.png</image>
+        <word>s</word>
+        <type>Sustantivos</type>
+        <meaning>Hombre.</meaning>
+    </item>
+    <item>
+        <image>st.png</image>
+        <word>st</word>
+        <type>Sustantivos</type>
+        <meaning>Mujer.</meaning>
+    </item>
+    <item>
+        <image>sç3.png</image>
+        <word>sẖ3 / sš</word>
+        <type>Sustantivos</type>
+        <meaning>Escriba.</meaning>
+    </item>
+    <item>
+        <image>t3.png</image>
+        <word>t3</word>
+        <type>Sustantivos</type>
+        <meaning>Tierra.</meaning>
+    </item>
+    <item>
+        <image>3xt.png</image>
+        <word>3ḫt</word>
+        <type>Sustantivos</type>
+        <meaning>Horizonte.</meaning>
+    </item>
+    <item>
+        <image>pr.png</image>
+        <word>pr</word>
+        <type>Sustantivos</type>
+        <meaning>Casa.</meaning>
+    </item>
+    <item>
+        <image>niwt.png</image>
+        <word>niwt</word>
+        <type>Sustantivos</type>
+        <meaning>Ciudad.</meaning>
+    </item>
+    <item>
+        <image>pn.png</image>
+        <word>pn</word>
+        <type>Adjetivos demostrativos</type>
+        <meaning>Este.</meaning>
+    </item>
+    <item>
+        <image>tn.png</image>
+        <word>tn</word>
+        <type>Adjetivos demostrativos</type>
+        <meaning>Esta.</meaning>
+    </item>
+    <item>
+        <image>nb_2.png</image>
+        <word>nb</word>
+        <type>Adjetivos indefinidos</type>
+        <meaning>Todo, cada.</meaning>
+    </item>
+    <item>
+        <image>nbt_2.png</image>
+        <word>nbt</word>
+        <type>Adjetivos indefinidos</type>
+        <meaning>Todo, cada.</meaning>
+    </item>
+    <item>
+        <image>m.png</image>
+        <word>m</word>
+        <type>Preposiciones simples</type>
+        <meaning>1.- Lugar en donde: "En".
+        2.- Lugar de donde: "Desde", "de", "procedente de".
+        3.- Instrumento: "Con", "por medio de", "gracias a".
+        4.- Materia: "Con", "de".
+        5.- Equivalencia o predicación: "Equivalente a", "idéntico a", "en el estado de", "a modo de", "bajo forma de", "como".</meaning>
+    </item>
+    <item>
+        <image>n.png</image>
+        <word>n</word>
+        <type>Preposiciones simples</type>
+        <meaning>1.- Dativo: "A", "para", "en beneficio de".
+        2.- Posesión: "Para", "de", "perteneciente a".
+        3.- Dirección (hacia personas): "Hacia".
+        4.- Causa: "A causa de", "por".</meaning>
+    </item>
+    <item>
+        <image>r.png</image>
+        <word>r</word>
+        <type>Preposiciones simples</type>
+        <meaning>1.- Lugar adonde (dirección hacia cosas): "Hacia", "a".
+        2.- Relación: "En cuanto a", "acerca de", "en relación con".
+        3.- Tiempo (duración): "Hasta", "por", "durante".
+        4.- Comparativo de superioridad: "Más que".</meaning>
+    </item>
+    <item>
+        <image>khr.png</image>
+        <word>ḥr</word>
+        <type>Preposiciones simples</type>
+        <meaning>1.- Situación: "Sobre", "encima de".
+        2.- Lugar en donde: "En".
+        3.- Causa: "Por".</meaning>
+    </item>
+    <item>
+        <image>tp.png</image>
+        <word>tp</word>
+        <type>Preposiciones simples</type>
+        <meaning>1.- Situación: "Bajo".
+        2.- Estado: "Cargado de", "con", "llevar algo" (giro idiomático).</meaning>
+    </item>
+    <item>
+        <image>djr.png</image>
+        <word>ḏr</word>
+        <type>Preposiciones simples</type>
+        <meaning>1.- Lugar de donde: "desde".
+        2.- Tiempo: "desde".
+        </meaning>
+    </item>
+    <item>
+        <image>xnt.png</image>
+        <word>ḫnt</word>
+        <type>Preposiciones simples</type>
+        <meaning>Delante de, a la cabeza de, al frente de.</meaning>
+    </item>
+    <item>
+        <image>xft.png</image>
+        <word>ḫft</word>
+        <type>Preposiciones simples</type>
+        <meaning>Ante, frente a, de acuerdo con.</meaning>
+    </item>
+    <item>
+        <image>çr.png</image>
+        <word>ẖr</word>
+        <type>Preposiciones simples</type>
+        <meaning>Sobre.</meaning>
+    </item>
+    <item>
+        <image>xr.png</image>
+        <word>ḫr</word>
+        <type>Preposiciones simples</type>
+        <meaning>Ante (alguien), bajo (el reinado de).</meaning>
+    </item>
+    <item>
+        <image>kh3.png</image>
+        <word>ḥ3</word>
+        <type>Preposiciones simples</type>
+        <meaning>Detrás de, alrededor de.</meaning>
+    </item>
+    <item>
+        <image>xt.png</image>
+        <word>ḫt</word>
+        <type>Preposiciones simples</type>
+        <meaning>A través de, por.</meaning>
+    </item>
+    <item>
+        <image>khn'.png</image>
+        <word>ḥnꜥ</word>
+        <type>Preposiciones simples</type>
+        <meaning>
+        1.- Junto con, con.
+        2.- Conjunción "y" para sustantivos.</meaning>
+    </item>
+    <item>
+        <image>mi.png</image>
+        <word>mi</word>
+        <type>Preposiciones simples</type>
+        <meaning>Como, según, de acuerdo con, igual que, del mismo modo que.</meaning>
+    </item>
+    <item>
+        <image>m-m.png</image>
+        <word>m-m</word>
+        <type>Preposiciones compuestas</type>
+        <meaning>Entre, en medio de.</meaning>
+    </item>
+    <item>
+        <image>m-b3kh.png</image>
+        <word>m-b3ḥ</word>
+        <type>Preposiciones compuestas</type>
+        <meaning>Ante, frente a, en presencia de.</meaning>
+    </item>
+    <item>
+        <image>m-xnt.png</image>
+        <word>m-ḫnt</word>
+        <type>Preposiciones compuestas</type>
+        <meaning>Delante de, al frente de, a la cabeza de.</meaning>
+    </item>
+    <item>
+        <image>m-çnw.png</image>
+        <word>m-ẖnw</word>
+        <type>Preposiciones compuestas</type>
+        <meaning>En el interior de, dentro de.</meaning>
+    </item>
+    <item>
+        <image>m-s3.png</image>
+        <word>m-s3</word>
+        <type>Preposiciones compuestas</type>
+        <meaning>Detrás de, tras.</meaning>
+    </item>
+    <item>
+        <image>r-s3.png</image>
+        <word>r-s3</word>
+        <type>Preposiciones compuestas</type>
+        <meaning>Detrás de, tras.</meaning>
+    </item>
+    <item>
+        <image>r-gs.png</image>
+        <word>r-gs</word>
+        <type>Preposiciones compuestas</type>
+        <meaning>Al lado de, junto a.</meaning>
+    </item>
+    <item>
+        <image>ky.png</image>
+        <word>ky</word>
+        <type>Adverbios</type>
+        <meaning>Otro (solo o delante del sustantivo; solo funciona como pronombre y lleva determinativo de persona).</meaning>
+    </item>
+    <item>
+        <image>kt.png</image>
+        <word>kt</word>
+        <type>Adverbios</type>
+        <meaning>Otra (solo o delante del sustantivo; solo funciona como pronombre y lleva determinativo de persona).</meaning>
+    </item>
+    <item>
+        <image>s3.png</image>
+        <word>s3</word>
+        <type>Sustantivos</type>
+        <meaning>Hijo.</meaning>
+    </item>
+    <item>
+        <image>nb.png</image>
+        <word>nb</word>
+        <type>Sustantivos</type>
+        <meaning>Señor.</meaning>
+    </item>
+    <item>
+        <image>nb_2.png</image>
+        <word>nb</word>
+        <type>Sustantivos</type>
+        <meaning>Señor (grafía alternativa).</meaning>
+    </item>
+    <item>
+        <image>khmt.png</image>
+        <word>ḥmt</word>
+        <type>Sustantivos</type>
+        <meaning>Mujer, esposa.</meaning>
+    </item>
+    <item>
+        <image>sç3.png</image>
+        <word>sẖ3</word>
+        <type>Sustantivos</type>
+        <meaning>Escriba.</meaning>
+    </item>
+    <item>
+        <image>sr.png</image>
+        <word>sr</word>
+        <type>Sustantivos</type>
+        <meaning>Oficial, notable.</meaning>
+    </item>
+    <item>
+        <image>çrd.png</image>
+        <word>ẖrd</word>
+        <type>Sustantivos</type>
+        <meaning>Niño.</meaning>
+    </item>
+    <item>
+        <image>nchr.png</image>
+        <word>nṯr</word>
+        <type>Sustantivos</type>
+        <meaning>Dios.</meaning>
+    </item>
+    <item>
+        <image>djrt.png</image>
+        <word>ḏrt</word>
+        <type>Sustantivos</type>
+        <meaning>Mano.</meaning>
+    </item>
+    <item>
+        <image>rd.png</image>
+        <word>rd</word>
+        <type>Sustantivos</type>
+        <meaning>Pierna.</meaning>
+    </item>
+    <item>
+        <image>miw.png</image>
+        <word>miw</word>
+        <type>Sustantivos</type>
+        <meaning>Gato.</meaning>
+    </item>
+    <item>
+        <image>khf3w.png</image>
+        <word>ḥf3w</word>
+        <type>Sustantivos</type>
+        <meaning>Serpiente.</meaning>
+    </item>
+    <item>
+        <image>rm.png</image>
+        <word>rm</word>
+        <type>Sustantivos</type>
+        <meaning>Pez.</meaning>
+    </item>
+    <item>
+        <image>nht.png</image>
+        <word>nht</word>
+        <type>Sustantivos</type>
+        <meaning>Sicomoro.</meaning>
+    </item>
+    <item>
+        <image>hrw.png</image>
+        <word>hrw</word>
+        <type>Sustantivos</type>
+        <meaning>Día.</meaning>
+    </item>
+    <item>
+        <image>pt.png</image>
+        <word>pt</word>
+        <type>Sustantivos</type>
+        <meaning>Cielo.</meaning>
+    </item>
+    <item>
+        <image>niwt.png</image>
+        <word>niwt</word>
+        <type>Sustantivos</type>
+        <meaning>Ciudad.</meaning>
+    </item>
+    <item>
+        <image>itrt.png</image>
+        <word>itrt</word>
+        <type>Sustantivos</type>
+        <meaning>Capilla.</meaning>
+    </item>
+    <item>
+        <image>nfr.png</image>
+        <word>nfr</word>
+        <type>Adjetivos calificativos</type>
+        <meaning>Bueno, hermoso.</meaning>
+    </item>
+    <item>
+        <image>iqr.png</image>
+        <word>iqr</word>
+        <type>Adjetivos calificativos</type>
+        <meaning>Excelente, hábil.</meaning>
+    </item>
+    <item>
+        <image>bin.png</image>
+        <word>bin</word>
+        <type>Adjetivos calificativos</type>
+        <meaning>Malo, miserable.</meaning>
+    </item>
+    <item>
+        <image>djw.png</image>
+        <word>ḏw</word>
+        <type>Adjetivos calificativos</type>
+        <meaning>Malo, malvado.</meaning>
+    </item>
+    <item>
+        <image>'sh3.png</image>
+        <word>ꜥš3</word>
+        <type>Adjetivos calificativos</type>
+        <meaning>Lleno, rico, mucho, numeroso, abundante, inagotable.</meaning>
+    </item>
+    <item>
+        <image>wr.png</image>
+        <word>wr</word>
+        <type>Adjetivos calificativos</type>
+        <meaning>Grande, abundante, importante.</meaning>
+    </item>
+    <item>
+        <image>'3_2.png</image>
+        <word>ꜥ3</word>
+        <type>Adjetivos calificativos</type>
+        <meaning>Grande, abundante, rico.</meaning>
+    </item>
+    <item>
+        <image>shri.png</image>
+        <word>šri</word>
+        <type>Adjetivos calificativos</type>
+        <meaning>Pequeño.</meaning>
+    </item>
+    <item>
+        <image>wsr.png</image>
+        <word>wsr</word>
+        <type>Adjetivos calificativos</type>
+        <meaning>Fuerte, poderoso.</meaning>
+    </item>
+    <item>
+        <image>khrw.png</image>
+        <word>ḥrw</word>
+        <type>Sustantivos</type>
+        <meaning>Horus.</meaning>
+    </item>
+    <item>
+        <image>3bdjw.png</image>
+        <word>3bḏw</word>
+        <type>Sustantivos</type>
+        <meaning>Abidos.</meaning>
+    </item>
+    <item>
+        <image>ipt.png</image>
+        <word>Ipt</word>
+        <type>Sustantivos</type>
+        <meaning>Ipet (Luxor).</meaning>
+    </item>
+    <item>
+        <image>w'b.png</image>
+        <word>wꜥb</word>
+        <type>Sustantivos</type>
+        <meaning>Sacerdote-wab.</meaning>
+    </item>
+    <item>
+        <image>xnms.png</image>
+        <word>ḫnms</word>
+        <type>Sustantivos</type>
+        <meaning>Amigo.</meaning>
+    </item>
+    <item>
+        <image>wkh'.png</image>
+        <word>wḥꜥ</word>
+        <type>Sustantivos</type>
+        <meaning>Amigo.</meaning>
+    </item>
+    <item>
+        <image>sxty.png</image>
+        <word>sḫty</word>
+        <type>Sustantivos</type>
+        <meaning>Campesino.</meaning>
+    </item>
+    <item>
+        <image>inkhwy.png</image>
+        <word>inḥwy</word>
+        <type>Sustantivos</type>
+        <meaning>Las (dos) cejas.</meaning>
+    </item>
+    <item>
+        <image>3pd.png</image>
+        <word>3pd</word>
+        <type>Sustantivos</type>
+        <meaning>Pájaro(s), ave(s).</meaning>
+    </item>
+    <item>
+        <image>çnw.png</image>
+        <word>ẖnw</word>
+        <type>Sustantivos</type>
+        <meaning>Residencia, Palacio Real. También: Interior, país (referido a Egipto), Egipto.</meaning>
+    </item>
+    <item>
+        <image>w3t.png</image>
+        <word>w3t</word>
+        <type>Sustantivos</type>
+        <meaning>Camino.</meaning>
+    </item>
+    <item>
+        <image>itrw.png</image>
+        <word>itrw</word>
+        <type>Sustantivos</type>
+        <meaning>Río.</meaning>
+    </item>
+    <item>
+        <image>w3dj-wr.png</image>
+        <word>w3ḏ-wr</word>
+        <type>Sustantivos</type>
+        <meaning>Mar, lit. "El Verde Grande", "La Gran Extensión Verde"</meaning>
+    </item>
+    <item>
+        <image>unknown.jpg</image>
+        <word>w3ḏ</word>
+        <type>Sustantivos</type>
+        <meaning>Un color entre el verde y el azul.</meaning>
+    </item>
+    <item>
+        <image>iw.png</image>
+        <word>iw</word>
+        <type>Sustantivos</type>
+        <meaning>Isla.</meaning>
+    </item>
+    <item>
+        <image>dw3t.png</image>
+        <word>dw3t</word>
+        <type>Sustantivos</type>
+        <meaning>Inframundo, mundo subterráneo.</meaning>
+    </item>
+    <item>
+        <image>khtp.png</image>
+        <word>ḥtp</word>
+        <type>Sustantivos</type>
+        <meaning>Paz.</meaning>
+    </item>
+    <item>
+        <image>gmw.png</image>
+        <word>gmw</word>
+        <type>Sustantivos</type>
+        <meaning>Tristeza, aflicción.</meaning>
+    </item>
+    <item>
+        <image>i'nw.png</image>
+        <word>iꜥnw</word>
+        <type>Sustantivos</type>
+        <meaning>Clamor.</meaning>
+    </item>
+    <item>
+        <image>imw.png</image>
+        <word>imw</word>
+        <type>Sustantivos</type>
+        <meaning>Gemido, lamento.</meaning>
+    </item>
+    <item>
+        <image>khb.png</image>
+        <word>ḥb</word>
+        <type>Sustantivos</type>
+        <meaning>Fiesta.</meaning>
+    </item>
+    <item>
+        <image>xsbd.png</image>
+        <word>ḫsbd</word>
+        <type>Sustantivos</type>
+        <meaning>Lapislázuli.</meaning>
+    </item>
+    <item>
+        <image>mfk3t.png</image>
+        <word>mfk3t</word>
+        <type>Sustantivos</type>
+        <meaning>Turquesa.</meaning>
+    </item>
+    <item>
+        <image>qrkht.png</image>
+        <word>qrḥt</word>
+        <type>Sustantivos</type>
+        <meaning>Jarra.</meaning>
+    </item>
+    <item>
+        <image>ds.png</image>
+        <word>ds</word>
+        <type>Sustantivos</type>
+        <meaning>Cuchillo.</meaning>
+    </item>
+    <item>
+        <image>m3'.png</image>
+        <word>m3ꜥ</word>
+        <type>Adjetivos calificativos</type>
+        <meaning>Auténtico, verdadero.</meaning>
+    </item>
+    <item>
+        <image>im.png</image>
+        <word>im</word>
+        <type>Adverbios</type>
+        <meaning>Ludar de donde: Allí, desde allí.</meaning>
+    </item>
+    <item>
+        <image>'3.png</image>
+        <word>ꜥ3</word>
+        <type>Adverbios</type>
+        <meaning>Aquí.</meaning>
+    </item>
+    <item>
+        <image>it.png</image>
+        <word>it</word>
+        <type>Sustantivos</type>
+        <meaning>Padre.</meaning>
+    </item>
+    <item>
+        <image>bshch.png</image>
+        <word>bšṯ</word>
+        <type>Sustantivos</type>
+        <meaning>Rebelde.</meaning>
+    </item>
+    <item>
+        <image>m3w.png</image>
+        <word>m3w</word>
+        <type>Sustantivos</type>
+        <meaning>León.</meaning>
+    </item>
+    <item>
+        <image>ib.png</image>
+        <word>ib</word>
+        <type>Sustantivos</type>
+        <meaning>Corazón.</meaning>
+    </item>
+    <item>
+        <image>khtpw.png</image>
+        <word>ḥtpw</word>
+        <type>Sustantivos</type>
+        <meaning>Paz, perdón, clemencia.</meaning>
+    </item>
+    <item>
+        <image>khnqt.png</image>
+        <word>ḥnqt</word>
+        <type>Sustantivos</type>
+        <meaning>Cerveza.</meaning>
+    </item>
+    <item>
+        <image>irp.png</image>
+        <word>irp</word>
+        <type>Sustantivos</type>
+        <meaning>Vino.</meaning>
+    </item>
+    <item>
+        <image>d3bw.png</image>
+        <word>d3bw</word>
+        <type>Sustantivos</type>
+        <meaning>Higos.</meaning>
+    </item>
+    <item>
+        <image>i3rrt.png</image>
+        <word>i3rrt</word>
+        <type>Sustantivos</type>
+        <meaning>Uva(s).</meaning>
+    </item>
+    <item>
+        <image>bit.png</image>
+        <word>bit</word>
+        <type>Sustantivos</type>
+        <meaning>Miel.</meaning>
+    </item>
+    <item>
+        <image>b3q.png</image>
+        <word>b3q</word>
+        <type>Sustantivos</type>
+        <meaning>Aceite de moringa.</meaning>
+    </item>
+    <item>
+        <image>dqrw.png</image>
+        <word>dqrw</word>
+        <type>Sustantivos</type>
+        <meaning>Fruto(s).</meaning>
+    </item>
+    <item>
+        <image>it_2.png</image>
+        <word>it</word>
+        <type>Sustantivos</type>
+        <meaning>(masc.) Cebada.</meaning>
+    </item>
+    <item>
+        <image>bdt.png</image>
+        <word>bdt</word>
+        <type>Sustantivos</type>
+        <meaning>Trigo.</meaning>
+    </item>
+    <item>
+        <image>djrw.png</image>
+        <word>ḏrw</word>
+        <type>Sustantivos</type>
+        <meaning>Límite, final.</meaning>
+    </item>
+    <item>
+        <image>mnmnt.png</image>
+        <word>mnmnt</word>
+        <type>Sustantivos</type>
+        <meaning>Ganado, rebaño(s).</meaning>
+    </item>
+    <item>
+        <image>m'k3.png</image>
+        <word>mꜥk3</word>
+        <type>Adjetivos calificativos</type>
+        <meaning>Intrépido, fuerte, valiente.</meaning>
+    </item>
+    <item>
+        <image>shw.png</image>
+        <word>šw</word>
+        <type>Adjetivos calificativos</type>
+        <meaning>Vacío, libre, exento, escaso.</meaning>
+    </item>
+    <item>
+        <image>3w.png</image>
+        <word>3w</word>
+        <type>Adjetivos calificativos</type>
+        <meaning>Grande.</meaning>
+    </item>
+    <item>
+        <image>nn.png</image>
+        <word>nn</word>
+        <type>Adjetivos calificativos</type>
+        <meaning>Inexistente.</meaning>
+    </item>
+    <item>
+        <image>i3w.png</image>
+        <word>i3w</word>
+        <type>Sustantivos</type>
+        <meaning>Viejo.</meaning>
+    </item>
+    <item>
+        <image>smr.png</image>
+        <word>smr</word>
+        <type>Sustantivos</type>
+        <meaning>Amigo (del rey) (título cortesano).</meaning>
+    </item>
+    <item>
+        <image>çt.png</image>
+        <word>ẖt</word>
+        <type>Sustantivos</type>
+        <meaning>Cuerpo.</meaning>
+    </item>
+    <item>
+        <image>xt.png</image>
+        <word>ḫt</word>
+        <type>Sustantivos</type>
+        <meaning>Cosa.</meaning>
+    </item>
+    <item>
+        <image>st_2.png</image>
+        <word>st</word>
+        <type>Sustantivos</type>
+        <meaning>Lugar, morada, finca, hacienda.</meaning>
+    </item>
+    <item>
+        <image>dshrt.png</image>
+        <word>dšrt</word>
+        <type>Sustantivos</type>
+        <meaning>Desierto.</meaning>
+    </item>
+    <item>
+        <image>dbkht-khtp.png</image>
+        <word>dbḥt ḥtp</word>
+        <type>Sustantivos</type>
+        <meaning>Las ofrendas requeridas, las ofrendas debidas (lit. lo requerido/debido/necesario de ofrendas).</meaning>
+    </item>
+    <item>
+        <image>dbkht-khtp_2.png</image>
+        <word>dbḥt ḥtp</word>
+        <type>Sustantivos</type>
+        <meaning>Las ofrendas requeridas, las ofrendas debidas (lit. lo requerido/debido/necesario de ofrendas).</meaning>
+    </item>
+    <item>
+        <image>dbkht-khtp_3.png</image>
+        <word>dbḥt ḥtp</word>
+        <type>Sustantivos</type>
+        <meaning>Las ofrendas requeridas, las ofrendas debidas (lit. lo requerido/debido/necesario de ofrendas).</meaning>
+    </item>
+    <item>
+        <image>t.png</image>
+        <word>t</word>
+        <type>Sustantivos</type>
+        <meaning>Pan.</meaning>
+    </item>
+    <item>
+        <image>k3.png</image>
+        <word>k3</word>
+        <type>Sustantivos</type>
+        <meaning>Buey (piezas de carne de buey), toro.</meaning>
+    </item>
+    <item>
+        <image>shs.png</image>
+        <word>šs</word>
+        <type>Sustantivos</type>
+        <meaning>(Piezas de) alabastro.</meaning>
+    </item>
+    <item>
+        <image>mnxt.png</image>
+        <word>mnḫt</word>
+        <type>Sustantivos</type>
+        <meaning>(Piezas de) tejido.</meaning>
+    </item>
+    <item>
+        <image>mkh.png</image>
+        <word>mḥ</word>
+        <type>Sustantivos</type>
+        <meaning>Codo (unidad de longitud, 52,5 cm.).</meaning>
+    </item>
+    <item>
+        <image>mkh_2.png</image>
+        <word>mḥ</word>
+        <type>Sustantivos</type>
+        <meaning>Llenar.</meaning>
+    </item>
+    <item>
+        <image>xpsh.png</image>
+        <word>ḫpš</word>
+        <type>Sustantivos</type>
+        <meaning>Pata delantera de buey.</meaning>
+    </item>
+    <item>
+        <image>k3_2.png</image>
+        <word>k3</word>
+        <type>Sustantivos</type>
+        <meaning>Buey (piezas de carne de buey).</meaning>
+    </item>
+    <item>
+        <image>im3xy.png</image>
+        <word>im3ḫy</word>
+        <type>Sustantivos</type>
+        <meaning>Venerable.</meaning>
+    </item>
+    <item>
+        <image>kh3ty-'.png</image>
+        <word>ḥ3t(y)-ꜥ</word>
+        <type>Sustantivos</type>
+        <meaning>Gobernador (título cortesano; aquel que está por delante de posición).</meaning>
+    </item>
+    <item>
+        <image>w'b.png</image>
+        <word>wꜥb</word>
+        <type>Adjetivos calificativos</type>
+        <meaning>Puro.</meaning>
+    </item>
+    <item>
+        <image>wsx.png</image>
+        <word>wsḫ</word>
+        <type>Adjetivos calificativos</type>
+        <meaning>Amplio, espacioso.</meaning>
+    </item>
+    <item>
+        <image>xt_2.png</image>
+        <word>ḫt</word>
+        <type>Preposiciones simples</type>
+        <meaning>A través de (extenderse por ese algo, invadirlo).</meaning>
+    </item>
+    <item>
+        <image>rd.png</image>
+        <word>rd</word>
+        <type>Sustantivos</type>
+        <meaning>Pie.</meaning>
+    </item>
+    <item>
+        <image>t3sh.png</image>
+        <word>t3š</word>
+        <type>Sustantivos</type>
+        <meaning>Frontera.</meaning>
+    </item>
+    <item>
+        <image>sh'.png</image>
+        <word>šꜥ</word>
+        <type>Sustantivos</type>
+        <meaning>Arena.</meaning>
+    </item>
+    <item>
+        <image>mw.png</image>
+        <word>mw</word>
+        <type>Sustantivos</type>
+        <meaning>Agua, semen, simiente.</meaning>
+    </item>
+    <item>
+        <image>'t.png</image>
+        <word>ꜥt</word>
+        <type>Sustantivos</type>
+        <meaning>Habitación.</meaning>
+    </item>
+    <item>
+        <image>rsw.png</image>
+        <word>rsw</word>
+        <type>Sustantivos</type>
+        <meaning>Viento del sur.</meaning>
+    </item>
+    <item>
+        <image>mkhyt.png</image>
+        <word>mḥ(y)t</word>
+        <type>Sustantivos</type>
+        <meaning>Viento del norte.</meaning>
+    </item>
+    <item>
+        <image>imnt.png</image>
+        <word>imnt</word>
+        <type>Sustantivos</type>
+        <meaning>Occidente.</meaning>
+    </item>
+    <item>
+        <image>i3bt.png</image>
+        <word>i3bt</word>
+        <type>Sustantivos</type>
+        <meaning>Oriente.</meaning>
+    </item>
+    <item>
+        <image>sxt.png</image>
+        <word>sḫt</word>
+        <type>Sustantivos</type>
+        <meaning>Campo.</meaning>
+    </item>
+    <item>
+        <image>Ptkh-Skr.png</image>
+        <word>Ptḥ-Skr</word>
+        <type>Nombres propios</type>
+        <meaning>Ptah-Sokar, dios funerario de Men-Nefer (Menfis).</meaning>
+    </item>
+    <item>
+        <image>rsy.png</image>
+        <word>rs(y)</word>
+        <type>Nisbe</type>
+        <meaning>Viento del sur.</meaning>
+    </item>
+    <item>
+        <image>mkhty.png</image>
+        <word>mḥt(y)</word>
+        <type>Nisbe</type>
+        <meaning>Viento del norte.</meaning>
+    </item>
+    <item>
+        <image>unknown.jpg</image>
+        <word>imy</word>
+        <type>Nisbe</type>
+        <meaning>Que está en.</meaning>
+    </item>
+    <item>
+        <image>unknown.jpg</image>
+        <word>imy-r3</word>
+        <type>Títulos</type>
+        <meaning>Supervisor, jefe. Lit. aquel que está en la boca (se entiende: de sus subordinados).</meaning>
+    </item>
+    <item>
+        <image>imy-r3_'çnwty.png</image>
+        <word>imy-r3 ꜥẖnw(ty)</word>
+        <type>Títulos</type>
+        <meaning>Supervisor de la cámara de audiencias.</meaning>
+    </item>
+    <item>
+        <image>unknown.jpg</image>
+        <word>ꜥẖnw(ty)</word>
+        <type>Sustantivos</type>
+        <meaning>La cámara de audiencias.</meaning>
+    </item>
+    <item>
+        <image>khm.png</image>
+        <word>ḥm</word>
+        <type>Sustantivos</type>
+        <meaning>Majestad.</meaning>
+    </item>
+    <item>
+        <image>'3pp.png</image>
+        <word>ꜥ3pp</word>
+        <type>Nombres propios</type>
+        <meaning>Apopis.</meaning>
+    </item>
+    <item>
+        <image>wi3.png</image>
+        <word>wi3</word>
+        <type>Nombres propios</type>
+        <meaning>Barca (solar).</meaning>
+    </item>
+    <item>
+        <image>msh'.png</image>
+        <word>mšꜥ</word>
+        <type>Sustantivos</type>
+        <meaning>Tropa, tripulación.</meaning>
+    </item>
+    <item>
+        <image>'3_3.png</image>
+        <word>ꜥ3</word>
+        <type>Sustantivos</type>
+        <meaning>Burro.</meaning>
+    </item>
+    <item>
+        <image>Kmt.png</image>
+        <word>Kmt</word>
+        <type>Sustantivos</type>
+        <meaning>Egipto.</meaning>
+    </item>
+    <item>
+        <image>smkh.png</image>
+        <word>smḥ</word>
+        <type>Sustantivos</type>
+        <meaning>Canoa.</meaning>
+    </item>
+    <item>
+        <image>khnn.png</image>
+        <word>ḥnn</word>
+        <type>Sustantivos</type>
+        <meaning>Azada.</meaning>
+    </item>
+    <item>
+        <image>wkh'.png</image>
+        <word>wḥꜥ</word>
+        <type>Sustantivos</type>
+        <meaning>Pescador.</meaning>
+    </item>
+    <item>
+        <image>idt.png</image>
+        <word>idt</word>
+        <type>Sustantivos</type>
+        <meaning>Vaca.</meaning>
+    </item>
+    <item>
+        <image>gmi.png</image>
+        <word>gmi</word>
+        <type>Verbos</type>
+        <meaning>Encontrar.</meaning>
+    </item>
+    <item>
+        <image>pri.png</image>
+        <word>pr(i)</word>
+        <type>Verbos</type>
+        <meaning>Salir.</meaning>
+    </item>
+    <item>
+        <image>xsf.png</image>
+        <word>ḫsf</word>
+        <type>Verbos</type>
+        <meaning>Rechazar.</meaning>
+    </item>
+    <item>
+        <image>djd.png</image>
+        <word>ḏd</word>
+        <type>Verbos</type>
+        <meaning>Decir, recitar, hablar.</meaning>
+    </item>
+    <item>
+        <image>rdi.png</image>
+        <word>rdi</word>
+        <type>Verbos</type>
+        <meaning>Dar, colocar.</meaning>
+    </item>
+    <item>
+        <image>iii.png</image>
+        <word>ii(i)</word>
+        <type>Verbos</type>
+        <meaning>Venir.</meaning>
+    </item>
+    <item>
+        <image>i3sh.png</image>
+        <word>i3š</word>
+        <type>Verbos</type>
+        <meaning>Llamar.</meaning>
+    </item>
+    <item>
+        <image>nkhm.png</image>
+        <word>nḥm</word>
+        <type>Verbos</type>
+        <meaning>Confiscar, coger, quedarse con.</meaning>
+    </item>
+    <item>
+        <image>h3i.png</image>
+        <word>h3i</word>
+        <type>Verbos</type>
+        <meaning>Descender, bajar.</meaning>
+    </item>
+    <item>
+        <image>'m'm.png</image>
+        <word>ꜥmꜥm</word>
+        <type>Verbos</type>
+        <meaning>Untar, aplicar ungüento.</meaning>
+    </item>
+    <item>
+        <image>sin.png</image>
+        <word>sin</word>
+        <type>Verbos</type>
+        <meaning>Masajear.</meaning>
+    </item>
+    <item>
+        <image>spi.png</image>
+        <word>sp(i)</word>
+        <type>Verbos</type>
+        <meaning>Atar, construir atando.</meaning>
+    </item>
+    <item>
+        <image>sk3.png</image>
+        <word>sk3</word>
+        <type>Verbos</type>
+        <meaning>Arar.</meaning>
+    </item>
+    <item>
+        <image>sti.png</image>
+        <word>st(i)</word>
+        <type>Verbos</type>
+        <meaning>Arponear.</meaning>
+    </item>
+    <item>
+        <image>'m'3.png</image>
+        <word>ꜥmꜥ3</word>
+        <type>Verbos</type>
+        <meaning>Lanzar el bastón arrojadizo (con prep. r, contra).</meaning>
+    </item>
+    <item>
+        <image>kh3m.png</image>
+        <word>ḥ3m</word>
+        <type>Verbos</type>
+        <meaning>Capturar, pescar.</meaning>
+    </item>
+    <item>
+        <image>sfx.png</image>
+        <word>sfḫ</word>
+        <type>Verbos</type>
+        <meaning>Asistir (en el parto).</meaning>
+    </item>
+    <item>
+        <image>sdjm.png</image>
+        <word>sḏm</word>
+        <type>Verbos</type>
+        <meaning>Escuchar, obedecer (con prep. n, a).</meaning>
+    </item>
+    <item>
+        <image>wnm.png</image>
+        <word>wnm</word>
+        <type>Verbos</type>
+        <meaning>Comer.</meaning>
+    </item>
+    <item>
+        <image>swri.png</image>
+        <word>swri</word>
+        <type>Verbos</type>
+        <meaning>(v. fuerte) Beber.</meaning>
+    </item>
+    <item>
+        <image>'.png</image>
+        <word>ꜥ</word>
+        <type>Sustantivos</type>
+        <meaning>Mano.</meaning>
+    </item>
+    <item>
+        <image>sh.png</image>
+        <word>š</word>
+        <type>Sustantivos</type>
+        <meaning>Lago.</meaning>
+    </item>
+    <item>
+        <image>dw3t.png</image>
+        <word>Dw3t</word>
+        <type>Sustantivos</type>
+        <meaning>Duat, mundo subterráneo, inframundo.</meaning>
+    </item>
+    <item>
+        <image>r3.png</image>
+        <word>r3</word>
+        <type>Sustantivos</type>
+        <meaning>Fórmula.</meaning>
+    </item>
+    <item>
+        <image>tr.png</image>
+        <word>tr</word>
+        <type>Sustantivos</type>
+        <meaning>Tiempo.</meaning>
+    </item>
+    <item>
+        <image>x3wy.png</image>
+        <word>ḫ3wy</word>
+        <type>Sustantivos</type>
+        <meaning>Noche.</meaning>
+    </item>
+    <item>
+        <image>shms.png</image>
+        <word>šms</word>
+        <type>Sustantivos</type>
+        <meaning>Seguidor (divino), acompañante (divino).</meaning>
+    </item>
+    <item>
+        <image>wpwty.png</image>
+        <word>wpwty</word>
+        <type>Sustantivos</type>
+        <meaning>Mensajero.</meaning>
+    </item>
+    <item>
+        <image>w3t.png</image>
+        <word>w3t</word>
+        <type>Sustantivos</type>
+        <meaning>Camino.</meaning>
+    </item>
+    <item>
+        <image>3bd.png</image>
+        <word>3bd</word>
+        <type>Sustantivos</type>
+        <meaning>Mes.</meaning>
+    </item>
+    <item>
+        <image>çt.png</image>
+        <word>ẖt</word>
+        <type>Sustantivos</type>
+        <meaning>Cuerpo.</meaning>
+    </item>
+    <item>
+        <image>xt_3.png</image>
+        <word>ḫt</word>
+        <type>Sustantivos</type>
+        <meaning>Árbol.</meaning>
+    </item>
+    <item>
+        <image>qni.png</image>
+        <word>qni</word>
+        <type>Sustantivos</type>
+        <meaning>Abrazo, brazos.</meaning>
+    </item>
+    <item>
+        <image>çrdw.png</image>
+        <word>ẖrdw</word>
+        <type>Sustantivos</type>
+        <meaning>Niños, hijos.</meaning>
+    </item>
+    <item>
+        <image>fnd.png</image>
+        <word>fnd</word>
+        <type>Sustantivos</type>
+        <meaning>Nariz.</meaning>
+    </item>
+    <item>
+        <image>minb.png</image>
+        <word>minb</word>
+        <type>Sustantivos</type>
+        <meaning>Hacha.</meaning>
+    </item>
+    <item>
+        <image>ishnn.png</image>
+        <word>išnn</word>
+        <type>Sustantivos</type>
+        <meaning>Grito de guerra.</meaning>
+    </item>
+    <item>
+        <image>i3t.png</image>
+        <word>i3t</word>
+        <type>Sustantivos</type>
+        <meaning>Espalda.</meaning>
+    </item>
+    <item>
+        <image>'3m.png</image>
+        <word>ꜥ3m</word>
+        <type>Sustantivos</type>
+        <meaning>Asiático, habitante de Retjenu.</meaning>
+    </item>
+    <item>
+        <image>khknw.png</image>
+        <word>ḥknw</word>
+        <type>Sustantivos</type>
+        <meaning>(Las) gracias.</meaning>
+    </item>
+    <item>
+        <image>mntw.png</image>
+        <word>Mntw</word>
+        <type>Nombres propios</type>
+        <meaning>Dios Montu.</meaning>
+    </item>
+    <item>
+        <image>khpt.png</image>
+        <word>ḥpt</word>
+        <type>Sustantivos</type>
+        <meaning>Abrazos.</meaning>
+    </item>
+    <item>
+        <image>'f3y.png</image>
+        <word>ꜥf3y</word>
+        <type>Sustantivos</type>
+        <meaning>Campamento.</meaning>
+    </item>
+    <item>
+        <image>'kh'w.png</image>
+        <word>ꜥḥꜥw</word>
+        <type>Sustantivos</type>
+        <meaning>Riqueza.</meaning>
+    </item>
+    <item>
+        <image>q3.png</image>
+        <word>q3</word>
+        <type>Adjetivos calificativos</type>
+        <meaning>Alto.</meaning>
+    </item>
+    <item>
+        <image>3w.png</image>
+        <word>3w</word>
+        <type>Verbos</type>
+        <meaning>Tender.</meaning>
+    </item>
+    <item>
+        <image>i'i.png</image>
+        <word>iꜥ(i)</word>
+        <type>Verbos</type>
+        <meaning>Lavar.</meaning>
+    </item>
+    <item>
+        <image>sqdi.png</image>
+        <word>sqd(i)</word>
+        <type>Verbos</type>
+        <meaning>Navegar.</meaning>
+    </item>
+    <item>
+        <image>shms_2.png</image>
+        <word>šms</word>
+        <type>Verbos</type>
+        <meaning>Seguir, acompañar, escoltar.</meaning>
+    </item>
+    <item>
+        <image>shm.png</image>
+        <word>šm</word>
+        <type>Verbos</type>
+        <meaning>Ir.</meaning>
+    </item>
+    <item>
+        <image>pkh.png</image>
+        <word>pḥ</word>
+        <type>Verbos</type>
+        <meaning>Alcanzar.</meaning>
+    </item>
+    <item>
+        <image>spr.png</image>
+        <word>spr</word>
+        <type>Verbos</type>
+        <meaning>Llegar.
+        1. + con r de lugar = hacia.
+        2. + con ḥr de tiempo = en, al cabo de.</meaning>
+    </item>
+    <item>
+        <image>wpi.png</image>
+        <word>wp(i)</word>
+        <type>Verbos</type>
+        <meaning>Separar, abrir.</meaning>
+    </item>
+    <item>
+        <image>di.png</image>
+        <word>di</word>
+        <type>Verbos</type>
+        <meaning>Dar, colocar.</meaning>
+    </item>
+    <item>
+        <image>sn.png</image>
+        <word>sn</word>
+        <type>Verbos</type>
+        <meaning>Besar.</meaning>
+    </item>
+    <item>
+        <image>wnn.png</image>
+        <word>wnn</word>
+        <type>Verbos</type>
+        <meaning>Estar, existir, vivir.</meaning>
+    </item>
+    <item>
+        <image>çm'.png</image>
+        <word>ẖmꜥ</word>
+        <type>Verbos</type>
+        <meaning>Atacar, embestir.</meaning>
+    </item>
+    <item>
+        <image>sti.png</image>
+        <word>st(i)</word>
+        <type>Verbos</type>
+        <meaning>Atravesar, herir (de muerte).</meaning>
+    </item>
+    <item>
+        <image>sbkh.png</image>
+        <word>sbḥ</word>
+        <type>Verbos</type>
+        <meaning>Gritar.</meaning>
+    </item>
+    <item>
+        <image>xr.png</image>
+        <word>ḫr</word>
+        <type>Verbos</type>
+        <meaning>Caer.</meaning>
+    </item>
+    <item>
+        <image>sxr.png</image>
+        <word>sḫr</word>
+        <type>Verbos</type>
+        <meaning>Derribar, hacer caer, rematar.</meaning>
+    </item>
+    <item>
+        <image>wdi.png</image>
+        <word>wd(i)</word>
+        <type>Verbos</type>
+        <meaning>Profesir, emitir, lanzar.</meaning>
+    </item>
+    <item>
+        <image>nmi.png</image>
+        <word>nmi</word>
+        <type>Verbos</type>
+        <meaning>Gritar, vociferar.</meaning>
+    </item>
+    <item>
+        <image>ini.png</image>
+        <word>in(i)</word>
+        <type>Verbos</type>
+        <meaning>Ir a buscar, traer(se), confiscar, apoderarse de.</meaning>
+    </item>
+    <item>
+        <image>kh3q.png</image>
+        <word>ḥ3q</word>
+        <type>Verbos</type>
+        <meaning>Capturar.</meaning>
+    </item>
+    <item>
+        <image>kf.png</image>
+        <word>kf</word>
+        <type>Verbos</type>
+        <meaning>Saquear.</meaning>
+    </item>
+    <item>
+        <image>'3_2.png</image>
+        <word>ꜥ3</word>
+        <type>Verbos</type>
+        <meaning>Ennoblecerse.</meaning>
+    </item>
+    <item>
+        <image>wsx.png</image>
+        <word>wsḫ</word>
+        <type>Verbos</type>
+        <meaning>Aumentar.</meaning>
+    </item>
+    <item>
+        <image>'sh3.png</image>
+        <word>ꜥš3</word>
+        <type>Verbos</type>
+        <meaning>Crecer.</meaning>
+    </item>
+    <item>
+        <image>m-q3b-n.png</image>
+        <word>m-q3b-n</word>
+        <type>Preposiciones compuestas</type>
+        <meaning>En medio de, entre, en compañía de.</meaning>
+    </item>
+    <item>
+        <image>h3.png</image>
+        <word>h3</word>
+        <type>Interjecciones</type>
+        <meaning>"Oh...", introduce el vocativo, o sea, una invocación a alguien.</meaning>
+    </item>
+</words>
